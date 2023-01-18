@@ -1,0 +1,15 @@
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/bin/Debug/net7.0/AdvancedLoops
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/bin/Debug/net7.0/AdvancedLoops.deps.json
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/bin/Debug/net7.0/AdvancedLoops.runtimeconfig.json
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/bin/Debug/net7.0/AdvancedLoops.dll
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/bin/Debug/net7.0/AdvancedLoops.pdb
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/obj/Debug/net7.0/AdvancedLoops.csproj.AssemblyReference.cache
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/obj/Debug/net7.0/AdvancedLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/obj/Debug/net7.0/AdvancedLoops.AssemblyInfoInputs.cache
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/obj/Debug/net7.0/AdvancedLoops.AssemblyInfo.cs
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/obj/Debug/net7.0/AdvancedLoops.csproj.CoreCompileInputs.cache
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/obj/Debug/net7.0/AdvancedLoops.dll
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/obj/Debug/net7.0/refint/AdvancedLoops.dll
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/obj/Debug/net7.0/AdvancedLoops.pdb
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/obj/Debug/net7.0/AdvancedLoops.genruntimeconfig.cache
+/Users/oluwafemiadegunleye/Projects/AdvancedLoops/obj/Debug/net7.0/ref/AdvancedLoops.dll
